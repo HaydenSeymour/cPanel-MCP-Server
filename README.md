@@ -1,1 +1,1 @@
-# Cpanel-MCP-Server
+# cPanel-MCP-Server
